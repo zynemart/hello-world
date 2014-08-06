@@ -1,7 +1,7 @@
 hello-world
 ===========
 
-this is the tutorial for git hub
+this is the tutorial for git hub I am learning
 
 Hi, Humans!
 
